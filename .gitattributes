@@ -1,0 +1,38 @@
+# Ensure all text files use LF line endings
+* text eol=lf
+
+# Treat common web-related files as text
+*.html text
+*.css text
+*.js text
+*.json text
+*.md text
+*.xml text
+*.svg text
+
+# Treat configuration and documentation files as text
+*.yml text
+*.yaml text
+*.txt text
+*.gitignore text
+*.gitattributes text
+
+# Mark binary files to avoid line-ending conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.zip binary
+*.tar binary
+*.gz binary
+
+# Optional: treat font and compiled assets as binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.mp4 binary
+*.mp3 binary
+*.pdf binary
