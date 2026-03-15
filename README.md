@@ -36,10 +36,6 @@ Firefox extension that allows you to save multiple tabs as bookmarks quickly and
 
 7. The extension is now installed! (Note: temporary installations are removed when Firefox closes)
 
-### From Firefox Add-ons Store
-
-*Coming soon - under review*
-
 ## 🎯 How to Use
 
 ### Save all tabs in current window:
